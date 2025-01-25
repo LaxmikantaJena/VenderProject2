@@ -1,0 +1,6 @@
+@EasyMarketing_HostAddress = http://localhost:5093
+
+GET {{EasyMarketing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
